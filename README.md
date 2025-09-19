@@ -1,1 +1,1 @@
-# project2
+# clothing_store
